@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Camera2</string>
+    <string name="push">PUSH</string>
 </resources>
